@@ -1,0 +1,11 @@
+d:\Project\ConsoleTetris\ConsoleTetris\obj\Debug\netcoreapp2.1\ConsoleTetris.csprojAssemblyReference.cache
+d:\Project\ConsoleTetris\ConsoleTetris\obj\Debug\netcoreapp2.1\ConsoleTetris.csproj.CoreCompileInputs.cache
+d:\Project\ConsoleTetris\ConsoleTetris\obj\Debug\netcoreapp2.1\ConsoleTetris.AssemblyInfoInputs.cache
+d:\Project\ConsoleTetris\ConsoleTetris\obj\Debug\netcoreapp2.1\ConsoleTetris.AssemblyInfo.cs
+D:\Project\ConsoleTetris\ConsoleTetris\bin\Debug\netcoreapp2.1\ConsoleTetris.deps.json
+D:\Project\ConsoleTetris\ConsoleTetris\bin\Debug\netcoreapp2.1\ConsoleTetris.runtimeconfig.json
+D:\Project\ConsoleTetris\ConsoleTetris\bin\Debug\netcoreapp2.1\ConsoleTetris.runtimeconfig.dev.json
+D:\Project\ConsoleTetris\ConsoleTetris\bin\Debug\netcoreapp2.1\ConsoleTetris.dll
+D:\Project\ConsoleTetris\ConsoleTetris\bin\Debug\netcoreapp2.1\ConsoleTetris.pdb
+D:\Project\ConsoleTetris\ConsoleTetris\obj\Debug\netcoreapp2.1\ConsoleTetris.dll
+D:\Project\ConsoleTetris\ConsoleTetris\obj\Debug\netcoreapp2.1\ConsoleTetris.pdb
